@@ -1,5 +1,7 @@
 title: Halaman Pemeliharaan
 #description: Halaman Pemeliharaan 
 show_downloads: false
+baseurl: ""
+url: "tangkasi-id.github.io/maintenance/"
 theme: jekyll-theme-cayman
 logo: logo-tangkasi.png
